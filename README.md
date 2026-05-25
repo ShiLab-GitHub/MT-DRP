@@ -1,5 +1,5 @@
-# MT-DRPNet: A Multi-Task Deep Learning Framework for Brain Tumor Drug Response and BBB Permeability Prediction
-This project implements a **multi-task learning model (MT-DRPNet)** for simultaneous prediction of brain tumor cell line drug sensitivity and blood-brain barrier permeability (BBBP). The model integrates multi-omics cellular profiles and drug molecular structural features to improve prediction accuracy, built on curated DRP and BBBP benchmark datasets.
+# MT-DRP: A Multi-Task Deep Learning Framework for Brain Tumor Drug Response and BBB Permeability Prediction
+This project implements a **multi-task learning model (MT-DRP)** for simultaneous prediction of brain tumor cell line drug sensitivity and blood-brain barrier permeability (BBBP). The model integrates multi-omics cellular profiles and drug molecular structural features to improve prediction accuracy, built on curated DRP and BBBP benchmark datasets.
 
 ## Dataset Sources
 ### 1. Drug Response Prediction (DRP) Dataset
